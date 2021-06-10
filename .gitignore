@@ -1,0 +1,7 @@
+/frontend/.parcel-cache
+/frontend/dist
+/frontend/node_modules
+
+/backend/node_modules
+/backend/.env
+.DS_Store
